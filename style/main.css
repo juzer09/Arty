@@ -13,6 +13,7 @@ body {
 .container {
     width: 1150px;
     margin: auto;
+    max-width: 95%;
 }
 
 h2 {
@@ -37,10 +38,9 @@ h1 {
 
 .art_content img {
     width: auto;
+    max-width: 100%;
     /* filter: invert(1); */
 }
-
-img {}
 
 .art_content ul {
     padding-left: 55px;
