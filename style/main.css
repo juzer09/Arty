@@ -1,0 +1,54 @@
+body {
+    /* background-color: #131313; */
+    margin: 0;
+    padding: 0;
+    font-family: Open sans;
+}
+
+.art_main {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.container {
+    width: 1150px;
+    margin: auto;
+}
+
+h2 {
+    text-transform: capitalize;
+    font-size: 30px;
+    color: darkseagreen;
+}
+
+h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+
+.art_content > p {
+    width: 85%;
+    line-height: 1.75;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.art_content img {
+    width: auto;
+    /* filter: invert(1); */
+}
+
+img {}
+
+.art_content ul {
+    padding-left: 55px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.art_content ul li {
+    line-height: 35px;
+    text-decoration: underline;
+}
